@@ -1,8 +1,2 @@
-ECDSA¸ÅÊö
-ÍÖÔ²ÇúÏßÊý×ÖÇ©ÃûËã·¨£¨ECDSA£©ÊÇÊ¹ÓÃÍÖÔ²ÇúÏßÃÜÂë£¨ECC£©¶ÔÊý×ÖÇ©ÃûËã·¨£¨DSA£©µÄÄ£Äâ¡£ECDSAÓÚ1999Äê³ÉÎªANSI±ê×¼£¬²¢ÓÚ2000Äê³ÉÎªIEEEºÍNIST±ê×¼¡£
 
-ËüÔÚ1998Äê¼ÈÒÑÎªISOËù½ÓÊÜ£¬²¢ÇÒ°üº¬ËüµÄÆäËûÒ»Ð©±ê×¼ÒàÔÚISOµÄ¿¼ÂÇÖ®ÖÐ¡£ÓëÆÕÍ¨µÄÀëÉ¢¶ÔÊýÎÊÌâ£¨discrete logarithm problem DLP£©ºÍ´óÊý·Ö½âÎÊÌâ£¨integer factorization problem IFP£©²»Í¬£¬ÍÖÔ²ÇúÏßÀëÉ¢¶ÔÊýÎÊÌâ£¨elliptic curve discrete logarithm problem ECDLP£©Ã»ÓÐÑÇÖ¸ÊýÊ±¼äµÄ½â¾ö·½·¨¡£Òò´ËÍÖÔ²ÇúÏßÃÜÂëµÄµ¥Î»±ÈÌØÇ¿¶ÈÒª¸ßÓÚÆäËû¹«Ô¿ÌåÖÆ¡£
-
-Êý×ÖÇ©ÃûËã·¨£¨DSA£©ÔÚÁª°îÐÅÏ¢´¦Àí±ê×¼FIPSÖÐÓÐÏêÏ¸ÂÛÊö£¬³ÆÎªÊý×ÖÇ©Ãû±ê×¼¡£ËüµÄ°²È«ÐÔ»ùÓÚËØÓòÉÏµÄÀëÉ¢¶ÔÊýÎÊÌâ¡£ÍÖÔ²ÇúÏßÃÜÂë£¨ECC£©ÓÉNeal KoblitzºÍVictor MillerÓÚ1985Äê·¢Ã÷¡£Ëü¿ÉÒÔ¿´×÷ÊÇÍÖÔ²ÇúÏß¶ÔÏÈÇ°»ùÓÚÀëÉ¢¶ÔÊýÎÊÌâ£¨DLP£©µÄÃÜÂëÏµÍ³µÄÄ£Äâ£¬Ö»ÊÇÈºÔªËØÓÉËØÓòÖÐµÄÔªËØÊý»»ÎªÓÐÏÞÓòÉÏµÄÍÖÔ²ÇúÏßÉÏµÄµã¡£
-
-ÍÖÔ²ÇúÏßÃÜÂëÌåÖÆµÄ°²È«ÐÔ»ùÓÚÍÖÔ²ÇúÏßÀëÉ¢¶ÔÊýÎÊÌâ£¨ECDLP£©µÄÄÑ½âÐÔ¡£ÍÖÔ²ÇúÏßÀëÉ¢¶ÔÊýÎÊÌâÔ¶ÄÑÓÚÀëÉ¢¶ÔÊýÎÊÌâ£¬ÍÖÔ²ÇúÏßÃÜÂëÏµÍ³µÄµ¥Î»±ÈÌØÇ¿¶ÈÒªÔ¶¸ßÓÚ´«Í³µÄÀëÉ¢¶ÔÊýÏµÍ³¡£Òò´ËÔÚÊ¹ÓÃ½Ï¶ÌµÄÃÜÔ¿µÄÇé¿öÏÂ£¬ECC¿ÉÒÔ´ïµ½ÓÚDLÏµÍ³ÏàÍ¬µÄ°²È«¼¶±ð¡£Õâ´øÀ´µÄºÃ´¦¾ÍÊÇ¼ÆËã²ÎÊý¸üÐ¡£¬ÃÜÔ¿¸ü¶Ì£¬ÔËËãËÙ¶È¸ü¿ì£¬Ç©ÃûÒ²¸ü¼Ó¶ÌÐ¡¡£Òò´ËÍÖÔ²ÇúÏßÃÜÂëÓÈÆäÊÊÓÃÓÚ´¦ÀíÄÜÁ¦¡¢´æ´¢¿Õ¼ä¡¢´ø¿í¼°¹¦ºÄÊÜÏÞµÄ³¡ºÏ¡£
+æ¤­åœ†æ›²çº¿å¯†ç ä½“åˆ¶çš„å®‰å…¨æ€§åŸºäºŽæ¤­åœ†æ›²çº¿ç¦»æ•£å¯¹æ•°é—®é¢˜ï¼ˆECDLPï¼‰çš„éš¾è§£æ€§ã€‚æ¤­åœ†æ›²çº¿ç¦»æ•£å¯¹æ•°é—®é¢˜è¿œéš¾äºŽç¦»æ•£å¯¹æ•°é—®é¢˜ï¼Œæ¤­åœ†æ›²çº¿å¯†ç ç³»ç»Ÿçš„å•ä½æ¯”ç‰¹å¼ºåº¦è¦è¿œé«˜äºŽä¼ ç»Ÿçš„ç¦»æ•£å¯¹æ•°ç³»ç»Ÿã€‚å› æ­¤åœ¨ä½¿ç”¨è¾ƒçŸ­çš„å¯†é’¥çš„æƒ…å†µä¸‹ï¼ŒECCå¯ä»¥è¾¾åˆ°äºŽDLç³»ç»Ÿç›¸åŒçš„å®‰å…¨çº§åˆ«ã€‚è¿™å¸¦æ¥çš„å¥½å¤„å°±æ˜¯è®¡ç®—å‚æ•°æ›´å°ï¼Œå¯†é’¥æ›´çŸ­ï¼Œè¿ç®—é€Ÿåº¦æ›´å¿«ï¼Œç­¾åä¹Ÿæ›´åŠ çŸ­å°ã€‚å› æ­¤æ¤­åœ†æ›²çº¿å¯†ç å°¤å…¶é€‚ç”¨äºŽå¤„ç†èƒ½åŠ›ã€å­˜å‚¨ç©ºé—´ã€å¸¦å®½åŠåŠŸè€—å—é™çš„åœºåˆã€‚
